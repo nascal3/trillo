@@ -1,7 +1,7 @@
 # Trello multi-booking web app
 
 ## Demo project
-View demo <a href="https://nascal3.github.io/mastercard-dashboard/">here</a>.
+View demo <a href="https://nascal3.github.io/trillo/">here</a>.
 
 
 ### Project setup
