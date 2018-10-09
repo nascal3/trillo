@@ -1,6 +1,6 @@
 # Trello multi-booking web app
 
-## Demo project
+## Project demo
 View demo <a href="https://nascal3.github.io/trillo/">here</a>.
 
 
