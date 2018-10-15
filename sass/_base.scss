@@ -65,17 +65,29 @@ html {
 
   /* Track */
   ::-webkit-scrollbar-track {
-    background: var(--color-grey-light-2);
+    background: var(--color-primary-dark);
+
+    @media only screen and (max-width: $bp-large) {
+      background: var(--color-grey-light-2);
+    }
   }
 
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: var(--color-primary-dark);
+    background: var(--color-grey-light-2);
+
+    @media only screen and (max-width: $bp-large) {
+      background: var(--color-primary-dark);
+    }
   }
 
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: var(--color-primary-light);
+    background: var(--color-grey-light-4);
+
+    @media only screen and (max-width: $bp-large) {
+      background: var(--color-primary-light);
+    }
   }
 }
 
